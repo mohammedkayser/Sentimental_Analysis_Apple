@@ -1,4 +1,4 @@
-# Sentimental_Analysis_R
+# Sentimental_Analysis_Apple
 Sentimental Analysis Of apple tweets using R Programming
 
 **This project aims to perform sentiment analysis on tweets related to Apple using the R programming language. 
